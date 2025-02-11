@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Gopal',
+    title: 'Tech MicroSystem',
     subtitle: 'Personal blog and portfolio by Gopal',
     description:
         'Personal blog and portfolio by Gopal. I write about web development, design, and productivity. I also share my coding projects and open-source work.',
